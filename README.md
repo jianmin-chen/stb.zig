@@ -1,5 +1,5 @@
-> ![CAUTION]
-> This is in alpha. I'm using this for my own projects right now, including the viewer.
+> [!CAUTION]
+> This is currently in alpha. I'm using this for my own projects right now, including the viewer.
 
 ```
 view [file]
